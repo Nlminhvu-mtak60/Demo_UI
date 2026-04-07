@@ -90,7 +90,7 @@
             this.txtPassword.ImeMode = System.Windows.Forms.ImeMode.Disable;
             this.txtPassword.Location = new System.Drawing.Point(30, 215);
             this.txtPassword.Name = "txtPassword";
-            this.txtPassword.PasswordChar = '.';
+            this.txtPassword.PasswordChar = '*';
             this.txtPassword.Size = new System.Drawing.Size(320, 30);
             this.txtPassword.TabIndex = 5;
             // 
